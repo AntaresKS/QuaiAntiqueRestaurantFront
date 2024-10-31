@@ -47,7 +47,7 @@ const LoadContentPage = async () => {
     document.querySelector("body").appendChild(scriptTag);
   }
   // Changement du titre de la page
-  document.title = `${actualRoute.title} + - + ${websitename}`;
+  document.title = `${actualRoute.title} - ${websitename}`;
 };
 
 // Fonction pour gerer les evenements de routage (clics sur les liens)
