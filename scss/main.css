@@ -12010,4 +12010,8 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.text-justify {
+  text-align: justify;
 }/*# sourceMappingURL=main.css.map */
